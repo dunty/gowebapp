@@ -1,0 +1,13 @@
+{
+  "service": "service1",
+
+  "server": {
+    "name": "gonode1",
+    "version": "0.0.1",
+    "host": "",
+    "port": ""
+  },
+  "redisdb": {
+    "address": "127.0.0.1:6379"
+  }
+}
